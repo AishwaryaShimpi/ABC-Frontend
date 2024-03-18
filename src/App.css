@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+*::after,*::before{
+    box-sizing: border-box;
+    font-family: 'DM sans' sans-serif;
+    font-weight: 400;
+    color:#ebebeb
+}
+
+body{
+    color: white;
+    background: linear-gradient(180deg,#345aa4 -28.35%,rgba(63,0,156,0)153.96%);
+    margin: 0;
+    background-repeat: no-repeat;
+}
+img{
+    width:100%;
+    object-fit: cover;
+}
+
+span{
+    color:#084888
+}
+a{
+    display : inline-block;
+    text-decoration: none; 
+}
+
